@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int input{},temp{},temp2{},a,b;
+    int input{},temp{},temp2{},a;
     cout<<"Enter number to check for Armstrong"<<endl;
     cin>>input;
     temp2=input;
